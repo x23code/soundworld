@@ -8,6 +8,8 @@ esp32 + arduino框架 + platformio(vs code插件)
 ![image](https://github.com/x23code/piclib/blob/main/1.jpg)
 ![image](https://github.com/x23code/piclib/blob/main/2.jpg)
 ![image](https://github.com/x23code/piclib/blob/main/3.jpg)
+# 开源库
+tft_eSPI库，驱动屏幕
 
 
 
