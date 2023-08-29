@@ -9,7 +9,11 @@ esp32 + arduino框架 + platformio(vs code插件)
 ![image](https://github.com/x23code/piclib/blob/main/2.jpg)
 ![image](https://github.com/x23code/piclib/blob/main/3.jpg)
 # 开源库
-tft_eSPI库，驱动屏幕
+tft_eSPI库驱动屏幕：
+https://github.com/schreibfaul1/ESP32-audioI2S
+中文字库支持：
+
+
 
 
 
