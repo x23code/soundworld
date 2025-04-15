@@ -20,9 +20,7 @@ https://github.com/schreibfaul1/ESP32-audioI2S
 a2dp_sink蓝牙音频协议:
 https://github.com/pschatzmann/ESP32-A2DP
 
-# 供参考
-SD卡容易挂载失败，SD卡使用VSPI，屏幕使用HSPI。
-wifi和蓝牙使用冲突，初始化一个导致另一个没法初始化，该项目同时只能使用部分功能。
+
 
 
 
